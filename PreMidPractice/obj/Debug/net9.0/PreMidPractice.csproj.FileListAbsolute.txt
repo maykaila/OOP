@@ -1,0 +1,14 @@
+C:\Users\Kaila\Documents\OOP_Practice\PreMidPractice\obj\Debug\net9.0\PreMidPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaila\Documents\OOP_Practice\PreMidPractice\obj\Debug\net9.0\PreMidPractice.AssemblyInfoInputs.cache
+C:\Users\Kaila\Documents\OOP_Practice\PreMidPractice\obj\Debug\net9.0\PreMidPractice.AssemblyInfo.cs
+C:\Users\Kaila\Documents\OOP_Practice\PreMidPractice\obj\Debug\net9.0\PreMidPractice.csproj.CoreCompileInputs.cache
+C:\Users\Kaila\Documents\OOP_Practice\PreMidPractice\bin\Debug\net9.0\PreMidPractice.exe
+C:\Users\Kaila\Documents\OOP_Practice\PreMidPractice\bin\Debug\net9.0\PreMidPractice.deps.json
+C:\Users\Kaila\Documents\OOP_Practice\PreMidPractice\bin\Debug\net9.0\PreMidPractice.runtimeconfig.json
+C:\Users\Kaila\Documents\OOP_Practice\PreMidPractice\bin\Debug\net9.0\PreMidPractice.dll
+C:\Users\Kaila\Documents\OOP_Practice\PreMidPractice\bin\Debug\net9.0\PreMidPractice.pdb
+C:\Users\Kaila\Documents\OOP_Practice\PreMidPractice\obj\Debug\net9.0\PreMidPractice.dll
+C:\Users\Kaila\Documents\OOP_Practice\PreMidPractice\obj\Debug\net9.0\refint\PreMidPractice.dll
+C:\Users\Kaila\Documents\OOP_Practice\PreMidPractice\obj\Debug\net9.0\PreMidPractice.pdb
+C:\Users\Kaila\Documents\OOP_Practice\PreMidPractice\obj\Debug\net9.0\PreMidPractice.genruntimeconfig.cache
+C:\Users\Kaila\Documents\OOP_Practice\PreMidPractice\obj\Debug\net9.0\ref\PreMidPractice.dll
