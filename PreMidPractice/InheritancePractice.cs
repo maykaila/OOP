@@ -47,14 +47,14 @@ class Motorcycle : Vehicle
     }
 }
 
-class Program
-{
-    static void Main()
-    {
-        Car car = new Car("Toyota", 2004, 4);
-        car.DisplayInfo();
+// class Program
+// {
+//     static void Main()
+//     {
+//         Car car = new Car("Toyota", 2004, 4);
+//         car.DisplayInfo();
 
-        Motorcycle bike = new Motorcycle("Harley", 2021, true);
-        bike.DisplayInfo();
-    }
-}
+//         Motorcycle bike = new Motorcycle("Harley", 2021, true);
+//         bike.DisplayInfo();
+//     }
+// }
